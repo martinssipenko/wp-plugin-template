@@ -112,3 +112,16 @@ Create a new Jenkins job from template
 ======================================
 
 Open Jenkins in your browser `http://localhost:8080` click in `New Job`, type a name for your job and select `Copy existing Job` and in `Copy from` type `wp-plugin-template`. Uncheck the `Disable Build` checkbox. In `Source Code Management` section choose your versioning system and fill required fields. In `Build Triggers` section choose `Poll SCM`. Click `Save` at the bottom of page. Now you can try to build you plugin, by clicking `Build Now`.
+
+Further reading
+===============
+http://jenkins-php.org/
+http://www.phpunit.de/manual/current/en/index.html
+http://shop.oreilly.com/product/0636920021353.do
+http://stackoverflow.com/questions/9138215/unit-testing-wordpress-plugins
+http://wp.tutsplus.com/tutorials/creative-coding/the-beginners-guide-to-unit-testing-building-a-testable-plugin/
+
+Links
+=====
+http://jenkins-ci.org/
+http://unit-tests.trac.wordpress.org/
