@@ -111,4 +111,4 @@ Create a folder for your plugin and copy all files except `README.md` into your 
 Create a new Jenkins job from template
 ======================================
 
-Open Jenkins in your browser `http://localhost:8080` click in `New Job`, type a name for your job and select 'Copy existing Job' and in Copy from type `wp-plugin-template`. Uncheck the 'Disable Build' checkbox. In 'Source Code Management' choose your versioning system and fill required fields. In 'Build Triggers' choose `Poll SCM`. Click 'Save' at the bottom of page. Now you can try to build you plugin, by clicking 'Build Now'.
+Open Jenkins in your browser `http://localhost:8080` click in `New Job`, type a name for your job and select `Copy existing Job` and in `Copy from` type `wp-plugin-template`. Uncheck the `Disable Build` checkbox. In `Source Code Management` section choose your versioning system and fill required fields. In `Build Triggers` section choose `Poll SCM`. Click `Save` at the bottom of page. Now you can try to build you plugin, by clicking `Build Now`.
