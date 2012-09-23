@@ -115,13 +115,13 @@ Open Jenkins in your browser `http://localhost:8080` click in `New Job`, type a 
 
 Further reading
 ===============
-http://jenkins-php.org/
-http://www.phpunit.de/manual/current/en/index.html
-http://shop.oreilly.com/product/0636920021353.do
-http://stackoverflow.com/questions/9138215/unit-testing-wordpress-plugins
-http://wp.tutsplus.com/tutorials/creative-coding/the-beginners-guide-to-unit-testing-building-a-testable-plugin/
+- http://jenkins-php.org/
+- http://www.phpunit.de/manual/current/en/index.html
+- http://shop.oreilly.com/product/0636920021353.do
+- http://stackoverflow.com/questions/9138215/unit-testing-wordpress-plugins
+- http://wp.tutsplus.com/tutorials/creative-coding/the-beginners-guide-to-unit-testing-building-a-testable-plugin/
 
 Links
 =====
-http://jenkins-ci.org/
-http://unit-tests.trac.wordpress.org/
+- http://jenkins-ci.org/
+- http://unit-tests.trac.wordpress.org/
