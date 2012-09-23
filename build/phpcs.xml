@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ruleset name="WordPress_CS">
+ <description>WordPress Plugin coding standard</description>
+ <rule ref="WordPress" />
+ <rule ref="Generic.PHP.DisallowShortOpenTag" />
+</ruleset>
