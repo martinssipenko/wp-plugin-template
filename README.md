@@ -81,11 +81,10 @@ Now lets download a Jenkins template for WP Plugin development into jenkins jobs
 WordPress Unit Test Framework Setup
 ===================================
 Create a `/src` directory for if you don't already have it
-
     sudo mkdir /src
 
 Clone WP Unit Test FW from it's offical SVN repo
-sudo svn co http://unit-test.svn.wordpress.org/trunk/ /src/wp_unit
+    sudo svn co http://unit-test.svn.wordpress.org/trunk/ /src/wp_unit
 
 Create a MySQL databse for unit testing, never use existing db, you will loose all data
 
