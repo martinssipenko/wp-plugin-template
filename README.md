@@ -84,9 +84,10 @@ Create a `/src` directory for if you don't already have it
 
     sudo mkdir /src
 
-Clone WP Unit Test FW from it's offical SVN repo
+Clone WP Unit Test FW from it's offical SVN repo and make it accessible to all users
 
     sudo svn co http://unit-test.svn.wordpress.org/trunk/ /src/wp_unit
+    sudo chmod -R 0777 /src/wp_unit
 
 Create a MySQL databse for unit testing, never use existing db, you will loose all data
 
